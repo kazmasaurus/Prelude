@@ -59,6 +59,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		31C402751ACE203400F42BA1 /* Prelude.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Prelude.playground; sourceTree = "<group>"; };
 		547B480E1A39A78200B60CA9 /* Prelude.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Prelude.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		547B48181A39A78300B60CA9 /* Prelude-iOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Prelude-iOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D461E3F61A943DA6005E6A15 /* Optional.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Optional.swift; sourceTree = "<group>"; };
@@ -119,6 +120,7 @@
 		D4D33D7819FE8F8C001D051D = {
 			isa = PBXGroup;
 			children = (
+				31C402751ACE203400F42BA1 /* Prelude.playground */,
 				D4D33D8419FE8F8C001D051D /* Prelude */,
 				D4D33D9119FE8F8C001D051D /* PreludeTests */,
 				D4D33D8319FE8F8C001D051D /* Products */,
